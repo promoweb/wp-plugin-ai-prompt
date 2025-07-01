@@ -2,6 +2,10 @@
 
 A user-friendly tool designed to create optimized prompts for AI assistants (such as ChatGPT, Claude, or Gemini) to generate custom WordPress plugins with detailed specifications and features.
 
+## Demo
+
+Try the online version of this tool at [https://mrtux.it/wordpress-plugin-prompt-generator/](https://mrtux.it/wordpress-plugin-prompt-generator/).
+
 ## Features
 
 - **Plugin Details**: Input basic information like plugin name, description, version, and author.
